@@ -4653,10 +4653,10 @@
         <usage name="Historical"/>
     </type>
     <type name="CharcoalTablets">
-        <nominal>35</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>15</min>
         <quantmin>10</quantmin>
         <quantmax>34</quantmax>
         <cost>100</cost>
@@ -5539,7 +5539,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="CombatKnife">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>8</min>
@@ -5550,6 +5550,9 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Military"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="CombinationLock">
         <nominal>12</nominal>
@@ -6704,10 +6707,10 @@
         <usage name="Military"/>
     </type>
     <type name="Epinephrine">
-        <nominal>35</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12084,10 +12087,10 @@
         <value name="Unique"/>
     </type>
     <type name="M9A1_Bayonet">
-        <nominal>8</nominal>
+        <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12357,10 +12360,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_CMAG_10Rnd">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12401,10 +12404,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_CMAG_40Rnd">
-        <nominal>8</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>3</min>
+        <min>4</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12700,10 +12703,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Mag_STANAG_30Rnd">
-        <nominal>10</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>5</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12714,16 +12717,17 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_STANAG_60Rnd">
-        <nominal>2</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1600</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>5</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="Mag_SV98_10Rnd">
@@ -13619,10 +13623,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="Morphine">
-        <nominal>35</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14625,10 +14629,10 @@
         <value name="Tier4"/>
     </type>
     <type name="PainkillerTablets">
-        <nominal>60</nominal>
+        <nominal>45</nominal>
         <lifetime>28800</lifetime>
         <restock>360</restock>
-        <min>45</min>
+        <min>30</min>
         <quantmin>10</quantmin>
         <quantmax>34</quantmax>
         <cost>100</cost>
@@ -16459,10 +16463,10 @@
         <value name="Tier3"/>
     </type>
     <type name="SalineBag">
-        <nominal>35</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18297,10 +18301,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="StartKitIV">
-        <nominal>40</nominal>
+        <nominal>35</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

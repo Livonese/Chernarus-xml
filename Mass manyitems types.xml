@@ -3073,6 +3073,7 @@
         <usage name="military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="Mass_SLR106">
         <nominal>0</nominal>
