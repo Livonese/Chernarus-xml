@@ -13211,10 +13211,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="MediumTent">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>5</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13227,10 +13227,10 @@
         <value name="Tier4"/>
     </type>
     <type name="MediumTent_Green">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>5</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13243,10 +13243,10 @@
         <value name="Tier4"/>
     </type>
     <type name="MediumTent_Orange">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>5</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14772,10 +14772,10 @@
         <usage name="Medic"/>
     </type>
     <type name="PartyTent">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14787,10 +14787,10 @@
         <value name="Tier4"/>
     </type>
     <type name="PartyTent_Blue">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14805,7 +14805,7 @@
         <nominal>15</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>8</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15794,7 +15794,7 @@
         <usage name="Farm"/>
     </type>
     <type name="PurificationTablets">
-        <nominal>80</nominal>
+        <nominal>85</nominal>
         <lifetime>28800</lifetime>
         <restock>1200</restock>
         <min>65</min>
